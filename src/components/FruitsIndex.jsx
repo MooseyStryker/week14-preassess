@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 function FruitsIndex({ fruits }) {
+ 
   return(
   <>
     <h2>Fruits Index</h2>
